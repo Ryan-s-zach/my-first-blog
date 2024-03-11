@@ -11,8 +11,6 @@ venv/
 # Database
 db.sqlite3
 
-templates/
-static/
 
 # Windows
 Thumbs.db*
